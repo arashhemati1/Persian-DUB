@@ -2,7 +2,7 @@
 
 This repository demonstrates a complete DevOps-integrated pipeline for Persian video dubbing. The pipeline includes components for ASR (automatic speech recognition), translation, and TTS (text-to-speech) models. It showcases the use of Docker, GitLab CI/CD, Nginx load balancing, database management, monitoring, and security practices. This project is designed to scale and optimize performance while adhering to modern DevOps methodologies.
 
-'''bash
+ ```bash
 persian-dubbing-devops/
 ├── asr/
 │   ├── Dockerfile
