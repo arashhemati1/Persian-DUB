@@ -1,0 +1,4 @@
+FROM postgres:latest
+ENV POSTGRES_DB dubbing_db
+ENV POSTGRES_USER admin
+ENV POSTGRES_PASSWORD secret
